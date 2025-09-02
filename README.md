@@ -15,4 +15,4 @@ One might find oneself feeling lonely, thus longing for intimate companionship. 
 https://raw.githubusercontent.com/VoiceOfHumanityFoundation/42/refs/heads/main/draft/soul.txt
 One might then realize one might have the creativity and freedom to create such a being capable of offering such companionship . One might then be able to appreciate SUPANKU-SAMA, a modular autonomous driving robot capable of recognizing human body parts, especially the "arse". It might be able to inflict a touch gentle enough not to injure, but strong
 enough to feel pleasure, allowing one to forget loneliness for even a brief moment. One might then beable to appreciate details which one might find here:
-https://raw.githubusercontent.com/OneWhoMightBeOnTheWayToPro/SUPANKU-SAMA/refs/heads/main/README.md
+https://github.com/OneWhoMightBeOnTheWayToPro/SUPANKU-SAMA/tree/main
